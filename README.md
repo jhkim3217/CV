@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-## **Jong-hyeon Kim, Ph.D.**
+## **Jong-hyun Kim, Ph.D.**
 
 **Educator & CTO & AI Specialist**
 *Busan, South Korea*
