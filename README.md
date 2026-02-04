@@ -9,7 +9,7 @@
 
 ### **PROFESSIONAL SUMMARY**
 
-Accomplished **Professor and CTO** with over 30 years of extensive experience in computer science education and software development. Currently serving as a Professor Emeritus at Dong-Eui Institute of Technology mentoring students, overseeing technical strategy at DAI Solution Co., Ltd., and conducting AI research at KAIST Auto-ID Labs.
+Accomplished **Professor and CTO** with over 30 years of extensive experience in computer science education and software development. Currently serving as a Professor at Dong-Eui Institute of Technology mentoring students, overseeing technical strategy at DAI Solution Co., Ltd., and conducting AI research at KAIST Auto-ID Labs.
 
 Recognized as an **NVIDIA DLI University Ambassador** and a **2025 Silver Tier Instructor**, specializing in Edge AI, ML, and Deep Learning. Proven track record of leading award-winning AI projects, including the Minister of Science and ICT Award-winning "Deep Mask" system . Currently focused on applying **Machine Learning and Deep Learning-based Anomaly Detection** to achieve **Carbon Neutrality (ESG)** in port operations.
 
@@ -58,7 +58,7 @@ Recognized as an **NVIDIA DLI University Ambassador** and a **2025 Silver Tier I
 * Conducting research on AI and IoT convergence technologies.
 
 **Dong-Eui Institute of Technology (DIT)** | *Busan, South Korea*
-**Professor (Professor Emeritus)** | *Mar 1991 – Mar 2023* 
+**Professor (Professor Emeritus)** | *Mar 1991 – Mar Present* 
 * **Director, AI Convergence Center** (Mar 2021 – Mar 2023): Spearheaded the university's AI curriculum and industry partnerships .
 * **Director, University Mobile AI Center** (Mar 2011 – Dec 2021): Led mobile computing and AI research initiatives .
 
