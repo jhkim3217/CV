@@ -17,7 +17,7 @@ Recognized as an **NVIDIA DLI University Ambassador** and a **2025 Silver Tier I
 
 ### **TECHNICAL SKILLS**
 
-* **AI & Deep Learning:** **Anomaly Detection (XGboost, AutoEncoders, GANs)**, Computer Vision, Object Detection, Face Recognition, Thermal Imaging Analysis.
+* **AI & Deep Learning:** Anomaly Detection (XGboost, AutoEncoders, GANs), Computer Vision, Object Detection, Face Recognition, Thermal Imaging Analysis.
 * **Frameworks & Tools:** PyTorch, TensorFlow, NVIDIA TAO Toolkit, Jupyter.
 * **Hardware & Edge AI:** NVIDIA Jetson Series (Nano, Xavier), NVIDIA DGX Systems, IoT Sensors (NodeMCU).
 * **Development:** Python, C++, Docker, Linux (Ubuntu).
